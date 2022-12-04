@@ -38,10 +38,7 @@ canvas {
 }
 
 body {
-  background-image: url(./thumbnails/hopemanpls.jpg);
-  background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
+  background-color: black;
   font-family: 'DynaPuff', cursive;
   font-weight: 400;
 
@@ -422,10 +419,10 @@ h6 {
 .gameimg {
   display: grid;
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 180px;
+  height: 180px;
   margin-left: 55px;
-margin-top: 100px;
+margin-top: 55px;
 background-color: transparent;
 overflow: visible;
 }
